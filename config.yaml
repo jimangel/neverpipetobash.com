@@ -1,0 +1,16 @@
+baseURL: "https://neverpipetobash.com"
+languageCode: "en-us"
+params:
+  title: "neverpipetobash.com"
+markup:
+  highlight:
+    style: friendly
+disableKinds:
+- sitemap
+- taxonomy
+- page
+- RSS
+- tags
+- categories
+ignoreErrors:
+- error-disable-taxonomy

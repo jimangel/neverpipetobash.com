@@ -1,0 +1,2 @@
+# add rewrites here
+/tailscale https://gist.githubusercontent.com/jimangel/9126f589d7f8b99a53d778cad9729893/raw/b08a9edbaf01f4ccb5e68d4cdfe1be54a4a80246/install-tailscale.sh

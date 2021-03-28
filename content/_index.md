@@ -1,0 +1,3 @@
+# Never pipe to bash
+
+More info comming soon...
